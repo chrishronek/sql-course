@@ -7,10 +7,9 @@ Prerequisites:
 Getting Started:
 1. Clone this repository using the command `git clone git@github.com:pohek321/sql-course.git`
 2. Ensure Docker Desktop is running on your computer
-3. Run the command `make up` to create a Docker container running a PostgreSQL database
-4. Run the command `make load` to load the Docker PostgreSQL database with sample data
+3. Run the command `make create` to create a Docker container running the AdventureWorks PostgreSQL database
 
 # Data Model
-Read more on the origin of this data model [here](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
+Read more on the origin of this data model [here](https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/adventure-works)
 
-![erd](dvdrental_erd.png)
+
