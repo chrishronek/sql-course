@@ -8,3 +8,6 @@ Getting Started:
 2. Ensure Docker Desktop is running on your computer
 3. Run the command `make up` to create a Docker container running a PostgreSQL database
 4. Run the command `make load` to load the Docker PostgreSQL database with sample data
+
+# Data Model
+![erd](dvdrental_erd.png)
