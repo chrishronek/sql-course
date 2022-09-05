@@ -1,4 +1,5 @@
 # PostgreSQL Sandbox Setup
+
 Prerequisites:
 - Download [Docker Desktop](https://www.docker.com/products/docker-desktop/) to your computer.
 - (Optional) Download [DBGate](https://dbgate.org/) to your computer. This is one of many SQL IDE options. If you have a preferred IDE, feel free to use that instead.
@@ -11,4 +12,5 @@ Getting Started:
 
 # Data Model
 Read more on the origin of this data model [here](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
+
 ![erd](dvdrental_erd.png)
