@@ -10,4 +10,5 @@ Getting Started:
 4. Run the command `make load` to load the Docker PostgreSQL database with sample data
 
 # Data Model
+Read more on the origin of this data model [here](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/)
 ![erd](dvdrental_erd.png)
